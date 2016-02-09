@@ -481,7 +481,6 @@ It's true that some dunders can create more confusing results than others -- for
 Barry Warsaw, one of the core Python developers, once said that it frustrated him that "The Zen of Python" ([PEP 20][pep20]) is used as a style guide for Python code, since it was originally written as a poem about Python's **internal** design. That is, the design of the language and language implementation itself. One can acknowledge that, but a few of the lines from PEP 20 serve as pretty good guidelines for idiomatic Python code, so we'll just go with it.
 
 [pep20]:  https://www.python.org/dev/peps/pep-0020/
-[pocoo-naming]: http://www.pocoo.org/internal/styleguide/#naming-conventions
 
 ### Beautiful is better than ugly
 
